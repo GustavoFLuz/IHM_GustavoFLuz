@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+strong em {
+  color: red;
+}
+
+ul {
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.apresentacao_principal {
+  background-color: silver;
+}
+
+.apresentacao_beneficios {
+  background: #FFFFFF;
+  padding: 20px;
+}
+
+.imagem_beneficios {
+  width: 50%;
+}
+
+.item {
+  font-style: italic;
+}
+
+#banner {
+  width: 100%;
+}
+
+#missao {
+  font-size: 20px;
+}
